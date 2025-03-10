@@ -1,2 +1,2 @@
 # QuizMaker
-Web app that creates quiz
+Web app that creates quiz with GPT
